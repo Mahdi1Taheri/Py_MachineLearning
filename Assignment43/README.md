@@ -21,8 +21,8 @@ Steps are the same as finding nemo steps but pixel colors are different.<br>
 | 9  | 96.67%  |
 | 11 | 96.67%  |
 | 13  | 96.67%  |
-<br>
-Confusion matrix:
+
+Confusion matrix:<br>
 ![](https://github.com/Mahdi1Taheri/Py_MachineLearning/blob/main/Assignment43/output/confusion_matrix_iris.png)
 
 ## Breast cancer dataset
@@ -36,7 +36,7 @@ Accuracy results:<br>
 | 9  | 93.71%  |
 | 11 | 94.41%  |
 | 13  | 94.41% |
-<br>
+
 Confusion matrix:<br>
 ![cm breast cancer](https://github.com/Mahdi1Taheri/Py_MachineLearning/blob/main/Assignment43/output/cm_breast_cancer.png)
 
