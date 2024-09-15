@@ -33,6 +33,6 @@ Raisi MAE: 31298.935725282838
 ### Dollar fluctuations at Rouhani's presidency 
 ![Ahmadinejad](https://github.com/Mahdi1Taheri/Py_MachineLearning/blob/main/Assignment45/output/dollar_rouhani.png)
 ### Dollar fluctuations at Raisi's presidency 
-![Ahmadinejad](https://github.com/Mahdi1Taheri/Py_MachineLearning/blob/main/Assignment45/output/dollar_raisi.png)
+![Ahmadinejad](https://github.com/Mahdi1Taheri/Py_MachineLearning/blob/main/Assignment45/output/dollarRaisi.png)
 ### Comparison
 ![](https://github.com/Mahdi1Taheri/Py_MachineLearning/blob/main/Assignment45/output/dollar_comparison.png)
