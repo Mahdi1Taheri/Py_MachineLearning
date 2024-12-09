@@ -21,5 +21,5 @@ using perceptron I trained a linear model on this data.
 and write `evaluate()` function.<br>
 * `evaluate()` result: `{'MSE': 53.0735135583146, 'MAE': 5.92119708975179}`
   * `MAE : 5` means that my model is on average 5°C different from the actual value. (around %12.5 error rate)
-<br>
+
 `predict2()`: this function takes X and day number as input and predicts the temperature on that day
